@@ -1,0 +1,18 @@
+a = b + f + 1 + 1
+
+b = c + d + 2
+
+c = d + 3
+
+d = 9 + 3 + 1 + 4
+
+f = b
+
+e=g+1
+g=9
+
+var = a + e
+
+
+
+var2 = var + var
